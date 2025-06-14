@@ -4,7 +4,7 @@ public class PrimeNumbers {
    int c=a+b;
    {
     if(c=)
-   System.out.println("print result "+c);
+   System.out.println("print resut "+c);
   }
 }
 }
